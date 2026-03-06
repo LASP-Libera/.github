@@ -4,14 +4,14 @@
 
 ## Overview
 
-Libera will fly aboard NOAA's [JPSS-3](https://www.nesdis.noaa.gov/our-satellites/currently-flying/joint-polar-satellite-system) (Joint Polar Satellite System-3) satellite and is designed to extend the multi-decadal climate data record established by NASA's [CERES](https://ceres.larc.nasa.gov/) (Clouds and Earth's Radiant Energy System) instruments. By continuing this unbroken record, Libera will help scientists detect long-term trends in Earth's energy budget and improve climate models.
+Libera will fly aboard NOAA's [JPSS-4](https://www.nesdis.noaa.gov/our-satellites/currently-flying/joint-polar-satellite-system) (Joint Polar Satellite System-4) satellite and is designed to extend the multi-decadal climate data record established by NASA's [CERES](https://ceres.larc.nasa.gov/) (Clouds and Earth's Radiant Energy System) instruments. By continuing this unbroken record, Libera will help scientists detect long-term trends in Earth's energy budget and improve climate models.
 
 The instrument is developed by the [Laboratory for Atmospheric and Space Physics (LASP)](https://lasp.colorado.edu) at the University of Colorado Boulder, in partnership with NASA, NOAA, and NIST.
 
 ## Key Facts
 
 - **Mission type:** Earth observation — radiation budget monitoring
-- **Host satellite:** NOAA JPSS-3
+- **Host satellite:** NOAA JPSS-4
 - **Measurements:** Reflected solar radiation and emitted thermal infrared radiation from Earth
 - **Mission goal:** Continue the long-term Earth radiation budget climate data record
 - **Partners:** NASA, NOAA, NIST, and LASP/University of Colorado Boulder
